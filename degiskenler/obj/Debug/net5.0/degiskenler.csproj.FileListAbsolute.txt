@@ -1,0 +1,16 @@
+C:\kodluyoruz-c#\degiskenler\bin\Debug\net5.0\degiskenler.exe
+C:\kodluyoruz-c#\degiskenler\bin\Debug\net5.0\degiskenler.deps.json
+C:\kodluyoruz-c#\degiskenler\bin\Debug\net5.0\degiskenler.runtimeconfig.json
+C:\kodluyoruz-c#\degiskenler\bin\Debug\net5.0\degiskenler.runtimeconfig.dev.json
+C:\kodluyoruz-c#\degiskenler\bin\Debug\net5.0\degiskenler.dll
+C:\kodluyoruz-c#\degiskenler\bin\Debug\net5.0\ref\degiskenler.dll
+C:\kodluyoruz-c#\degiskenler\bin\Debug\net5.0\degiskenler.pdb
+C:\kodluyoruz-c#\degiskenler\obj\Debug\net5.0\degiskenler.csprojAssemblyReference.cache
+C:\kodluyoruz-c#\degiskenler\obj\Debug\net5.0\degiskenler.GeneratedMSBuildEditorConfig.editorconfig
+C:\kodluyoruz-c#\degiskenler\obj\Debug\net5.0\degiskenler.AssemblyInfoInputs.cache
+C:\kodluyoruz-c#\degiskenler\obj\Debug\net5.0\degiskenler.AssemblyInfo.cs
+C:\kodluyoruz-c#\degiskenler\obj\Debug\net5.0\degiskenler.csproj.CoreCompileInputs.cache
+C:\kodluyoruz-c#\degiskenler\obj\Debug\net5.0\degiskenler.dll
+C:\kodluyoruz-c#\degiskenler\obj\Debug\net5.0\ref\degiskenler.dll
+C:\kodluyoruz-c#\degiskenler\obj\Debug\net5.0\degiskenler.pdb
+C:\kodluyoruz-c#\degiskenler\obj\Debug\net5.0\degiskenler.genruntimeconfig.cache
